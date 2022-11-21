@@ -200,3 +200,7 @@ function renderizarErrores(listado) {
 function mostrarMensajeExito(listado) {
   //   desarrollar la funcion aqui
 }
+console.log("ahora comienza");
+let arr = [1, 2,3]
+arr[10]="hello"
+console.log(arr.length)
